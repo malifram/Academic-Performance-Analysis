@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ## Business Dashboard
 Dashboard Academic Performance memberikan gambaran menyeluruh tentang status mahasiswa, mencakup jumlah mahasiswa yang dropout, lulus, atau terdaftar. Analisis ini melibatkan faktor-faktor seperti penerima beasiswa, pembayaran biaya kuliah, status peminjam, dan mata kuliah yang diambil. Selain itu, dashboard ini juga menyajikan data demografis, termasuk kewarganegaraan mahasiswa, jenis kelamin, dan status pernikahan. Visualisasi ini membantu institusi untuk memahami lebih dalam tentang faktor-faktor yang memengaruhi kinerja akademik dan tingkat kelulusan mahasiswa, sehingga dapat merumuskan strategi yang lebih tepat dalam mengurangi angka dropout dan meningkatkan keberhasilan akademik.
 
-Akses [Dashboard](https://public.tableau.com/app/profile/muhamad.alif.ramadhan/viz/AcademicPerformanceDashboard_17461113842420/Dashboard#1)
+Akses Academic Performance Dashboard: [Dashboard](https://public.tableau.com/app/profile/muhamad.alif.ramadhan/viz/AcademicPerformanceDashboard_17461113842420/Dashboard#1)
 
 ![ACADEMIC PERFORMANCE DASHBOARD](malifram-dashboard.png)
 
