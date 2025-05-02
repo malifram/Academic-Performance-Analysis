@@ -59,11 +59,25 @@ streamlit run app.py
 
 ## Conclusion
 
-Jelaskan konklusi dari proyek yang dikerjakan.
+Berdasarkan hasil analisis, dapat disimpulkan bahwa faktor-faktor seperti pembayaran uang sekolah, jumlah unit kurikuler yang disetujui, prestasi akademik, dan status penerima beasiswa memiliki dampak signifikan terhadap status mahasiswa, terutama dalam hal kemungkinan terjadinya dropout.
+
+Hal ini sejalan dengan temuan yang terlihat dalam pie chart, di mana proporsi mahasiswa yang melakukan dropout cukup tinggi, yaitu mencapai 32,1%. Sementara itu, persentase mahasiswa yang lulus adalah 49,9%, dan mahasiswa yang masih terdaftar namun belum lulus sebesar 17,9%.
 
 ### Rekomendasi Action Items (Optional)
 
 Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
 
-- action item 1
-- action item 2
+1. Pembaruan Sistem Pembayaran UKT Secara Berkala
+Lakukan update rutin terhadap data biaya UKT setiap semester untuk mencegah timbulnya masalah keuangan yang dapat menyebabkan mahasiswa berhenti studi. Institusi juga dapat menerapkan sistem notifikasi otomatis kepada mahasiswa dan orang tua untuk mengingatkan mengenai informasi terbaru terkait biaya kuliah.
+
+2. Pendampingan Akademik untuk Mahasiswa dengan Nilai Rendah
+Perhatikan secara khusus mahasiswa yang memperoleh nilai di bawah 13, baik di semester awal maupun semester lanjutan. Berikan dukungan seperti bimbingan belajar, sesi konsultasi dengan dosen pembimbing, serta kelas remedial untuk membantu mereka meningkatkan performa akademik.
+
+3. Skema Dukungan Keuangan yang Fleksibel
+Tawarkan opsi bantuan keuangan seperti cicilan biaya kuliah, perluasan program beasiswa, atau subsidi pendidikan bagi mahasiswa yang mengalami kendala finansial agar mereka tetap dapat melanjutkan pendidikan tanpa hambatan ekonomi.
+
+4. Program Peningkatan Kemampuan Belajar Mahasiswa
+Adakan pelatihan dan kegiatan seperti workshop belajar efektif, manajemen waktu, dan program mentoring untuk membantu mahasiswa meningkatkan kemampuan akademik sekaligus menjaga motivasi belajar mereka.
+
+5. Peningkatan Peran Dosen dalam Mendukung Mahasiswa
+Lakukan pelatihan bagi dosen agar mereka mampu mengenali tanda-tanda mahasiswa yang mengalami kesulitan akademik atau non-akademik, serta dapat memberikan dukungan yang tepat sejak dini guna mencegah potensi dropout.
