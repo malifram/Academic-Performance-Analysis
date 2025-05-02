@@ -95,11 +95,11 @@ if st.button("Predict"):
     data_preprocessed = data_preprocessing(data_input)
     result = prediction(data_preprocessed)
     if result == "Graduate":
-        caption = "Congratsss!!! You are Graduated"
+        caption = "Selamat!!! Anda Lulus"
     elif result == "Dropout":
-        caption = "Unfortunately, you are Dropouted"
+        caption = "Sayangnya, Anda Dropout"
     else:
-        caption = "You are still enrolled"
+        caption = "Anda Masih Terdaftar"
     with st.expander("View the preprocessed data"):
         st.dataframe(data=data_preprocessed, width=800, height=10)
     st.write(caption)
