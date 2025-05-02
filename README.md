@@ -53,13 +53,15 @@ streamlit run app.py
 ```
 
 4. Setelah berhasil dijalankan, masukkan data yang sesuai kemudian klik tombol **Predict** untuk mengetahui status siswa tersebut.
+   
+untuk mengaksesnya secara online, Anda dapat membukanya melalui tautan berikut: [Jaya Jaya Institute App](https://academic-performance-analysis.streamlit.app)
 
 ## Conclusion
 Berdasarkan hasil analisis, dapat disimpulkan bahwa faktor-faktor seperti pembayaran uang sekolah, jumlah unit kurikuler yang disetujui, prestasi akademik, dan status penerima beasiswa memiliki dampak signifikan terhadap status mahasiswa, terutama dalam hal kemungkinan terjadinya dropout.
 
 Hal ini sejalan dengan temuan yang terlihat dalam pie chart, di mana proporsi mahasiswa yang melakukan dropout cukup tinggi, yaitu mencapai 32,1%. Sementara itu, persentase mahasiswa yang lulus adalah 49,9%, dan mahasiswa yang masih terdaftar namun belum lulus sebesar 17,9%.
 
-### Rekomendasi Action Items (Optional)
+### Rekomendasi Action Items
 Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
 - Pembaruan Sistem Pembayaran UKT Secara Berkala.
 Lakukan update rutin terhadap data biaya UKT setiap semester untuk mencegah timbulnya masalah keuangan yang dapat menyebabkan mahasiswa berhenti studi. Institusi juga dapat menerapkan sistem notifikasi otomatis kepada mahasiswa dan orang tua untuk mengingatkan mengenai informasi terbaru terkait biaya kuliah.
