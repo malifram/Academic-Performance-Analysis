@@ -9,7 +9,6 @@ Jumlah dropout yang tinggi ini tentunya menjadi salah satu masalah yang besar un
 Tingkat dropout mahasiswa yang tinggi menjadi tantangan utama bagi Jaya Jaya Institute. Fenomena ini menyebabkan kerugian finansial bagi institusi karena hilangnya pendapatan dari mahasiswa yang tidak melanjutkan studi, sekaligus berpotensi merusak reputasi. Bagi mahasiswa, dropout dapat menghambat peluang karier dan kesejahteraan mereka di masa depan.
 
 ### Cakupan Proyek
-
 Proyek ini bertujuan untuk menganalisis data mahasiswa untuk menemukan faktor-faktor penyebab dropout. Hasil analisis ini akan divisualisasikan dalam sebuah business dashboard interaktif yang mudah dipahami. Selain itu, proyek ini juga akan mengembangkan model machine learning untuk memprediksi mahasiswa yang berisiko dropout. Prediksi ini akan diintegrasikan ke dalam dashboard sehingga Jaya Jaya Institut dapat mengambil tindakan pencegahan yang tepat waktu. Dengan demikian, diharapkan proyek ini dapat membantu Jaya Jaya Institut mengoptimalkan strategi intervensi dan meningkatkan angka kelulusan mahasiswa secara keseluruhan.
 
 ### Persiapan
@@ -31,7 +30,6 @@ pip install -r requirements.txt
 ```
 
 ## Business Dashboard
-
 Dashboard Academic Performance memberikan gambaran menyeluruh tentang status mahasiswa, mencakup jumlah mahasiswa yang dropout, lulus, atau terdaftar. Analisis ini melibatkan faktor-faktor seperti penerima beasiswa, pembayaran biaya kuliah, status peminjam, dan mata kuliah yang diambil. Selain itu, dashboard ini juga menyajikan data demografis, termasuk kewarganegaraan mahasiswa, jenis kelamin, dan status pernikahan. Visualisasi ini membantu institusi untuk memahami lebih dalam tentang faktor-faktor yang memengaruhi kinerja akademik dan tingkat kelulusan mahasiswa, sehingga dapat merumuskan strategi yang lebih tepat dalam mengurangi angka dropout dan meningkatkan keberhasilan akademik.
 
 Akses [Dashboard](https://public.tableau.com/app/profile/muhamad.alif.ramadhan/viz/AcademicPerformanceDashboard_17461113842420/Dashboard#1)
@@ -39,7 +37,6 @@ Akses [Dashboard](https://public.tableau.com/app/profile/muhamad.alif.ramadhan/v
 ![ACADEMIC PERFORMANCE DASHBOARD](malifram-dashboard.png)
 
 ## Menjalankan Sistem Machine Learning
-
 Untuk menjalankan prototype machine learning yang telah dibuat, ada dua cara akses yang tersedia, yaitu menjalankannya secara lokal atau melalui link Streamlit. Berikut adalah langkah-langkah yang perlu dilakukan jika ingin menjalankan prototype di lingkungan lokal:
 
 1. Buka terminal pada _virtual environment_ yang telah dibuat sebelumnya.
@@ -58,16 +55,13 @@ streamlit run app.py
 4. Setelah berhasil dijalankan, masukkan data yang sesuai kemudian klik tombol **Predict** untuk mengetahui status siswa tersebut.
 
 ## Conclusion
-
 Berdasarkan hasil analisis, dapat disimpulkan bahwa faktor-faktor seperti pembayaran uang sekolah, jumlah unit kurikuler yang disetujui, prestasi akademik, dan status penerima beasiswa memiliki dampak signifikan terhadap status mahasiswa, terutama dalam hal kemungkinan terjadinya dropout.
 
 Hal ini sejalan dengan temuan yang terlihat dalam pie chart, di mana proporsi mahasiswa yang melakukan dropout cukup tinggi, yaitu mencapai 32,1%. Sementara itu, persentase mahasiswa yang lulus adalah 49,9%, dan mahasiswa yang masih terdaftar namun belum lulus sebesar 17,9%.
 
 ### Rekomendasi Action Items (Optional)
-
 Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
-
-1. Pembaruan Sistem Pembayaran UKT Secara Berkala
+1. Pembaruan Sistem Pembayaran UKT Secara Berkala.\
 Lakukan update rutin terhadap data biaya UKT setiap semester untuk mencegah timbulnya masalah keuangan yang dapat menyebabkan mahasiswa berhenti studi. Institusi juga dapat menerapkan sistem notifikasi otomatis kepada mahasiswa dan orang tua untuk mengingatkan mengenai informasi terbaru terkait biaya kuliah.
 
 2. Pendampingan Akademik untuk Mahasiswa dengan Nilai Rendah
