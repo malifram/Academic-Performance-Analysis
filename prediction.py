@@ -12,8 +12,8 @@ cat_features_dict = {
 helper_df = pd.DataFrame(cat_features_dict)
 
 # Load PCA
-pca1 = load("data/enroll_approve_grade_1st_2nd")  # gabungan 6 fitur
-pca2 = load("data/eval_1st_2nd")                  # evaluations
+pca1 = load("data/enroll_approve_grade_1st_2nd")  
+pca2 = load("data/eval_1st_2nd")                
 
 # Load Transformers
 transform_age = load("data/Transformed_Age_at_enrollment")
@@ -36,8 +36,8 @@ def data_preprocessing(data_input, df=helper_df):
     categoric_data = data_input[9:]
 
     # PCA
-    pca1_result = list(pca1.transform([numeric_data[:6]])[0])  # pca1_1, pca1_2
-    pca2_result = list(pca2.transform([numeric_data[6:8]])[0]) # pca2
+    pca1_result = list(pca1.transform([numeric_data[:6]])[0])  
+    pca2_result = list(pca2.transform([numeric_data[6:8]])[0]) 
 
     # PowerTransformer: pca1_1, pca1_2 disimpan terpisah
     transformed_age = transform_age.transform([[numeric_data[8]]])[0][0]
@@ -74,16 +74,11 @@ def data_preprocessing(data_input, df=helper_df):
     # Gabung semua fitur (numerik + kategorikal)
     all_features = transformed_vals + encoded_data_list
 
-    # Kolom total 4 (numerik) + 8 (kategorikal) = 12
-    # Jika sebelumnya Anda pernah menyimpan 17 fitur, mungkin ada tambahan numerik lainnya?
-    # Misalnya: ditambah `Admission_grade`, `enrolled_total`, dll?
-    # Kalau tidak, pastikan yang sekarang **match** persis saat Anda fit model sebelumnya
-
     # Dummy kolom tambahan jika dibutuhkan 17 fitur
     while len(all_features) < 17:
-        all_features.append(0)  # isi dummy 0 agar pas 17 fitur
+        all_features.append(0) 
 
-    columns = [  # Anda harus pastikan urutan ini sesuai saat model dilatih
+    columns = [  
         'Transformed_Age_at_enrollment',
         'Transformed_pca1_1',
         'Transformed_pca1_2',
