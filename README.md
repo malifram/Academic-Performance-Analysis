@@ -68,10 +68,10 @@ Lakukan update rutin terhadap data biaya UKT setiap semester untuk mencegah timb
 Perhatikan secara khusus mahasiswa yang memperoleh nilai di bawah 13, baik di semester awal maupun semester lanjutan. Berikan dukungan seperti bimbingan belajar, sesi konsultasi dengan dosen pembimbing, serta kelas remedial untuk membantu mereka meningkatkan performa akademik.
 
 3. Skema Dukungan Keuangan yang Fleksibel.
-Tawarkan opsi bantuan keuangan seperti cicilan biaya kuliah, perluasan program beasiswa, atau subsidi pendidikan bagi mahasiswa yang mengalami kendala finansial agar mereka tetap dapat melanjutkan pendidikan tanpa hambatan ekonomi.
+   Tawarkan opsi bantuan keuangan seperti cicilan biaya kuliah, perluasan program beasiswa, atau subsidi pendidikan bagi mahasiswa yang mengalami kendala finansial agar mereka tetap dapat melanjutkan pendidikan tanpa hambatan ekonomi.
 
-4. Program Peningkatan Kemampuan Belajar Mahasiswa.
+5. Program Peningkatan Kemampuan Belajar Mahasiswa.
 Adakan pelatihan dan kegiatan seperti workshop belajar efektif, manajemen waktu, dan program mentoring untuk membantu mahasiswa meningkatkan kemampuan akademik sekaligus menjaga motivasi belajar mereka.
 
-5. Peningkatan Peran Dosen dalam Mendukung Mahasiswa.
+6. Peningkatan Peran Dosen dalam Mendukung Mahasiswa.
 Lakukan pelatihan bagi dosen agar mereka mampu mengenali tanda-tanda mahasiswa yang mengalami kesulitan akademik atau non-akademik, serta dapat memberikan dukungan yang tepat sejak dini guna mencegah potensi dropout.
