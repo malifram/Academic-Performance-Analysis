@@ -64,7 +64,7 @@ Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna m
 - Pembaruan Sistem Pembayaran UKT Secara Berkala.
 Lakukan update rutin terhadap data biaya UKT setiap semester untuk mencegah timbulnya masalah keuangan yang dapat menyebabkan mahasiswa berhenti studi. Institusi juga dapat menerapkan sistem notifikasi otomatis kepada mahasiswa dan orang tua untuk mengingatkan mengenai informasi terbaru terkait biaya kuliah.
 
--Pendampingan Akademik untuk Mahasiswa dengan Nilai Rendah.
+- Pendampingan Akademik untuk Mahasiswa dengan Nilai Rendah.
 Perhatikan secara khusus mahasiswa yang memperoleh nilai di bawah 13, baik di semester awal maupun semester lanjutan. Berikan dukungan seperti bimbingan belajar, sesi konsultasi dengan dosen pembimbing, serta kelas remedial untuk membantu mereka meningkatkan performa akademik.
 
 - Skema Dukungan Keuangan yang Fleksibel.
