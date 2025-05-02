@@ -38,6 +38,25 @@ Akses [Dashboard](https://public.tableau.com/app/profile/muhamad.alif.ramadhan/v
 
 ![ACADEMIC PERFORMANCE DASHBOARD](malifram-dashboard.png)
 
+## Menjalankan Sistem Machine Learning
+
+Untuk menjalankan prototype machine learning yang telah dibuat, ada dua cara akses yang tersedia, yaitu menjalankannya secara lokal atau melalui link Streamlit. Berikut adalah langkah-langkah yang perlu dilakukan jika ingin menjalankan prototype di lingkungan lokal:
+
+1. Buka terminal pada _virtual environment_ yang telah dibuat sebelumnya.
+2. Pastikan direktori saat ini menampung berkas-berkas yang telah diekstrak sebelumnya, terutama yang memiliki berkas **app.py**. Jika belum di direktori yang tepat, bisa menggunakan perintah di bawah
+
+```
+cd path/to/destination/directory
+```
+
+3. Setelah direktorinya sesuai, bisa menjalankan perintah di bawah
+
+```
+streamlit run app.py
+```
+
+4. Setelah berhasil dijalankan, masukkan data yang sesuai kemudian klik tombol **Predict** untuk mengetahui status siswa tersebut.
+
 ## Conclusion
 
 Jelaskan konklusi dari proyek yang dikerjakan.
