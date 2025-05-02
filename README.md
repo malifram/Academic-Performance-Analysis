@@ -36,7 +36,7 @@ Dashboard Academic Performance memberikan gambaran menyeluruh tentang status mah
 
 Akses [Dashboard](https://public.tableau.com/app/profile/muhamad.alif.ramadhan/viz/AcademicPerformanceDashboard_17461113842420/Dashboard#1)
 
-![ACADEMIC PERFORMANCE DASHBOARD]()
+![ACADEMIC PERFORMANCE DASHBOARD](malifram - dashboard.png)
 
 ## Conclusion
 
